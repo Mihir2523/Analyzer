@@ -1,0 +1,30 @@
+body {
+	background: linear-gradient(139deg,#2E3197,#1BFFFF);
+	font-family: Consolas;
+}
+.title	{
+	background: linear-gradient(-90deg,#fc4a1a,#f7b733);
+	font-size: 36px;
+	border:2px solid black;
+	color: white;
+	text-align: center;
+}
+.head{
+	
+	text-align:left;
+}
+.sub-head{
+	color: white;
+	border:2px solid black;
+	width: 40%;
+	text-align: left;	
+}
+.doubt {
+	font-size: 16px;
+	border:2px solid black;
+	width: 40%;
+}
+.b {
+	font-size: 18px;
+	width: 40%;
+}
